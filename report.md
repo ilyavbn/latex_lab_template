@@ -1,7 +1,7 @@
 ---
 # Front matter
 title: "Курсовая работа "
-subtitle: "Моделирование передачи данных в MININET"
+subtitle: "dsfsdfМоделирование передачи данных в MININET"
 author: "Ассан Акосси Жан-Самуэль НФИбд-03-18"
 
 # Generic otions
